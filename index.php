@@ -1,3 +1,4 @@
 <?php
-require_once("./mvc/bridge.php");
-$myApp = new App();
+
+require_once('./mvc/Bridge.php');
+$myApp = new App;
